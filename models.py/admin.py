@@ -4,3 +4,4 @@ class Admin:
         self.age = age
     def display(self):
         print(f'the emp name is {self.AdminName}')
+
